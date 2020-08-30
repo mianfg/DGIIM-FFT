@@ -2,11 +2,11 @@
 
 ![Repo image](https://repository-images.githubusercontent.com/291506166/147b6000-eaed-11ea-885a-871b21602444)
 
-# `CALI` Cálculo I
+# `FFT` Fundamentos Físicos y Tecnológicos
 
 | Nombre                | Fundamentos Físicos y Tecnológicos |
 | --------------------- | ------------------------------------------------------------ |
-| Abreviatura           | `CALI` |
+| Abreviatura           | `FFT` |
 | Grado correspondiente | Matemáticas |
 | Facultad              | Escuela Técnica Superior de Ingeniería Informática y de Telecomunicación (ETSIIT)  |
 | Universidad           | Universidad de Granada |
